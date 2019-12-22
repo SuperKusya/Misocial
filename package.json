@@ -25,6 +25,7 @@
   "dependencies": {
     "gift": "^0.10.2",
     "gulp": "^4.0.2",
+    "lodash.template": ">=4.5.0",
     "gulp-imagemin": "^6.2.0"
   }
 }
