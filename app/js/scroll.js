@@ -1,4 +1,4 @@
-const mainContent = document.querySelector('.main-content'),
+var mainContent = document.querySelector('.main-content'),
       downArrow = document.querySelector('.down-arrow'),
       navBnt = document.querySelector('.navbar__btn');
 
